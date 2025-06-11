@@ -11,4 +11,7 @@ Folder 'estimated_spectra' zawiera widma modelowe wraz z eksperymentalnymi na je
 Folder 'porównywanie solverów i parametrów' zawiera wykresy widm modelowych wykonywane przy porównywaniu solverów i parametrów kappa.
 
 Plik zmiany metabolitów w czasie.png zawiera wizualizację zmiany poszcególnych metabolitów w przeciagu dni.
+
 Plik proporcje.xlsx zawiera porównania wyników niektórych estymacji proporcji. Te wyniki są w raporcie w tabelkach.
+
+Plik new_selected_metabolites.csv zawiera metabolite użyte w drugiej bibliotece referencyjnej.
